@@ -1,25 +1,55 @@
-### Olá, Eu sou Matheus Mendes
+### Olá, eu sou o Matheus Mendes 👋
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/mm490514">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mm490514&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mm490514&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  ## Tecnologias que uso no meu dia
-  
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> 
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /> 
-  <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />      
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />    
-  <img align="center" alt="LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />      
-  <img align="center" alt="CSHARP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />      
-  <img align="center" alt="DOTNETCORE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />    
-  <img align="center" alt="POSTGRES" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="SQL SERVER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"  />         
-  <img align="center" alt="GIT" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-  <img align="center" alt="AZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-  <img align="center" alt="DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-</div>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mm490514&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mm490514&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tecnologias que uso no dia a dia
+
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />&nbsp;&nbsp;
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mm490514&theme=dark" />
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+- 💼 Desenvolvedor focado em backend e sistemas SaaS  
+- ⚙️ Experiência com **Laravel, .NET e bancos relacionais**  
+- 📈 Sempre buscando evoluir em arquitetura e boas práticas  
+- 🧠 Estudando constantemente engenharia de software  
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/mm490514">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
