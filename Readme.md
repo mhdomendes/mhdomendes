@@ -1,10 +1,6 @@
 ### Olá, eu sou o Matheus Mendes 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend;Especialista+em+Laravel+e+.NET;Focado+em+SaaS+e+Boas+Práticas;Sempre+evoluindo+🚀" />
-</p>
-
-<p align="center">
   <a href="https://github.com/mm490514">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mm490514&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mm490514&layout=compact&langs_count=7&theme=dark"/>
